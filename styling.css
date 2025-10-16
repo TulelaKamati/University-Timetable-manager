@@ -68,4 +68,8 @@ form{
     margin: 30px 0;
 
 }
+.input-box input{
+    width: 100%
+}
+
 
